@@ -140,6 +140,7 @@ e9bdabf9265d758d56f01bb188916fa8 UnityEngine.Networking.dll:UnityEngine.Networki
 05524b8f659e7bfe5756d1335fec24ba UnityEngine.TestRunner.dll:UnityEngine.TestTools.TestRunner.Callbacks.PlayModeRunnerCallback
 96d0fbde9fd209878a0a291f82c9bcdd UnityEngine.TestRunner.dll:UnityEngine.TestTools.TestRunner.PlaymodeTestsController
 64eb32cc721b1cc68a91ed57461e188c UnityEngine.TestRunner.dll:UnityEngine.TestTools.TestRunner.Callbacks.RemoteTestResultSender
+7ddf54a45bf202707dbaf04246baa593 Assembly-CSharp.dll:.Restart
 e0f7ffd5d5c2abe4b2e16569a21163da UnityEngine.GoogleAudioSpatializer.dll:UnityEngine.Experimental.Audio.Google.GvrAudioRoom
 3a5c4dc2b312b4e9fca1fe776ffb3d38 Assembly-CSharp.dll:.Gamestart
 e0f7ffd5d5c2abe4b2e16569a21163da UnityEngine.GoogleAudioSpatializer.dll:UnityEngine.Experimental.Audio.Google.GvrAudioRoom
@@ -150,5 +151,7 @@ c2275a8bfbb9f9942cad75ecdfded41d UnityEngine.HoloLens.dll:UnityEngine.XR.WSA.Spa
 45f3431f0103c41611e8d4eec3d439df UnityEngine.HoloLens.dll:UnityEngine.XR.WSA.SpatialMappingRenderer
 a40fbe0444e926586861dc7f08f95c19 Assembly-CSharp.dll:.StartGameBNT
 9de3a22eca9aefadba2d10d5987cefe3 UnityEngine.SpatialTracking.dll:UnityEngine.SpatialTracking.TrackedPoseDriver
-00f76a4cfeccd595d2f74eb2a09a1462 Assembly-CSharp.dll:.PlayMenu
-e535d033a05bf3eb119511764ce314ad Assembly-CSharp.dll:.Restart
+a006f35938aa2d194a2d029c4bf63760 Assembly-CSharp.dll:.PlayMenu
+05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.MoveDnD
+05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.Create
+06ca288e280217a8310416c4d08d1485 Assembly-CSharp.dll:.ChangeCamera

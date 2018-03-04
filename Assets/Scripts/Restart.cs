@@ -5,7 +5,6 @@ using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 
 public class Restart : MonoBehaviour {
-	public float  sec, min; 
 	public Button restart; 
 	// Use this for initialization
 	void Start () {

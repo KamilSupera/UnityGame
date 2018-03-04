@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class PlayMenu : MonoBehaviour {
 
-	public GameObject Menu, Restart; 
+	public GameObject Menu, Restart, Create; 
 
 	public void Start(){
 		OnPause ();
@@ -19,6 +19,12 @@ public class PlayMenu : MonoBehaviour {
 		Menu.SetActive (true);
 		Restart.SetActive (false);
 		Time.timeScale = 1;
+	}
+
+	public void Created(){
+		Menu.SetActive (true);
+		Restart.SetActive (false);
+		Time.timeScale = 0;
 	}
 
 
